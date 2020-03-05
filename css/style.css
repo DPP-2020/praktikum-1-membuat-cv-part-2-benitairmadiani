@@ -1,0 +1,21 @@
+.img-responsive{
+	width: 30%;
+}
+.img-responsive1{
+	width: 60%;
+}
+
+	@media (min-width: 992px) {
+	.left{
+		margin-left: 5px;
+	}
+}
+
+@media (max-width: 576px) {
+	.jarak{
+		margin-top: 2rem !important;
+	}
+	.left{
+		margin-left: 5px;
+	}
+}
